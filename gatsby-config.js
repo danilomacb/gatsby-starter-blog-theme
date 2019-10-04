@@ -8,16 +8,16 @@ module.exports = {
   // Customize your site metadata:
   siteMetadata: {
     title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    author: `Danilo Macedo Bakun`,
+    description: `Descrição...`,
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        url: `https://twitter.com/danilomacb`,
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://github.com/danilomacb`,
       },
     ],
   },
